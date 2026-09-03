@@ -1,0 +1,6 @@
+{
+  "appId": "sn.woyofal.transparency",
+  "appName": "Woyofal Transparency",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
